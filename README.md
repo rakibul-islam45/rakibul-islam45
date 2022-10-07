@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rakibul Islam</h1>
-<h3 align="center">Tech enthusiast! Software developer and tester</h3>
+<h1 align="center">Hi there, I'm Rakibul Islam</h1>
+<h3 align="center">Tech enthusiast! Software Developer and Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul-islam45&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-islam45" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rakib_45" target="blank"><img src="https://img.shields.io/twitter/follow/rakib_45?logo=twitter&style=for-the-badge" alt="rakib_45" /></a> </p>
 
- I am currently learning **Software developing and testing.**
+I recently graduated in Computer Science and Engineering. I have been learning several programming languages and solving problems for many years. I also completed a few projects on the basis of these languages.
+I love to solve problem.<br> I am an effective communicator with strong analytical/ logical skills and ability to relete people's thought. I love to exchange ideas with people.<br> I am very enthusiastic in Software Testing .  I’ve gathered knowledge about how to analyze requirements, develop and execute test cases, generate test reports, and test automation with the intent of finding as many software defects as possible.<br> I am ambitious and determined to continuously work to improve my software testing  skills with the purpose of having a career in this field.
 
 - 👨‍💻 All of my projects are available at [https://github.com/rakibul-islam45](https://github.com/rakibul-islam45)
 
