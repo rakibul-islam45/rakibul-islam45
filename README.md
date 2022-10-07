@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rakibul Islam</h1>
-<h3 align="center">I am a tech enthusiast!!</h3>
+<h3 align="center">Tech enthusiast! Software developer and tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul-islam45&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-islam45" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rakib_45" target="blank"><img src="https://img.shields.io/twitter/follow/rakib_45?logo=twitter&style=for-the-badge" alt="rakib_45" /></a> </p>
 
-- 🌱 I’m currently learning **Software developing and testing.**
+ I am currently learning **Software developing and testing.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rakibul-islam45](https://github.com/rakibul-islam45)
 
@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hello-rakibul-islam" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/hello-rakibul-islam?trk=profile-badge">Rakibul Islam</a></div>
               
 <a href="https://twitter.com/rakib_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakib_45" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hello-rakibul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hello-rakibul-islam" height="30" width="40" /></a>
@@ -28,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibul-islam45&show_icons=true&locale=en" alt="rakibul-islam45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul-islam45&" alt="rakibul-islam45" /></p>
+
