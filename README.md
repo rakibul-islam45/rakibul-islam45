@@ -9,7 +9,7 @@ I love to solve problems.<br> I am an effective communicator with strong analyti
 
 - 👨‍💻 All of my projects are available at [https://github.com/rakibul-islam45](https://github.com/rakibul-islam45)
 
-- 📫 Mail me **zero.rakibul@gmail.com**
+- 📫 Mail me **rakibul.rumc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
